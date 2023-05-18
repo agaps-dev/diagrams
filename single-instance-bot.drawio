@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-05-18T02:19:59.845Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J7l2BmyUmZZCw3AF85dQ" version="21.3.2" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1862" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="hfxp61rW-M_pRZ14bs61-0" value="Keep Updates" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-1" value="Keep Response" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-2" value="Update Receiver" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="60" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-3" value="Task Runner" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-4" value="State" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-5" value="Updates Pre-processing" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="120" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-6" value="Send Response" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="240" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-9" value="Update Receiver" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="60" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-10" value="Task Runner" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="120" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-13" value="Send Response" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="180" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfxp61rW-M_pRZ14bs61-14" value="vs." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
